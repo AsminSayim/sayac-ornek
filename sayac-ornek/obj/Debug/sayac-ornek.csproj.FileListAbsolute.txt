@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\sayac-ornek\sayac-ornek\bin\Debug\sayac-ornek.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\sayac-ornek\sayac-ornek\bin\Debug\sayac-ornek.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\sayac-ornek\sayac-ornek\bin\Debug\sayac-ornek.pdb
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\sayac-ornek\sayac-ornek\obj\Debug\sayac-ornek.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\sayac-ornek\sayac-ornek\obj\Debug\sayac-ornek.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\sayac-ornek\sayac-ornek\obj\Debug\sayac_ornek.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\sayac-ornek\sayac-ornek\obj\Debug\sayac_ornek.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\sayac-ornek\sayac-ornek\obj\Debug\sayac-ornek.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\sayac-ornek\sayac-ornek\obj\Debug\sayac-ornek.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\sayac-ornek\sayac-ornek\obj\Debug\sayac-ornek.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\sayac-ornek\sayac-ornek\obj\Debug\sayac-ornek.pdb
